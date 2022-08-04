@@ -1,0 +1,9 @@
+1. Declara las variable divisor, dividendo y resultado
+2. Leer el valor del divisor
+3. Leer el valor del dividendo
+4. El la variable resultado almacenar el valor de la operación resultante de dividir el dividendo entre el divisor
+5. Mostrar el valor de la variable resultado
+
+
+function multiply(int x, int y)
+	return  x / y
